@@ -7,4 +7,4 @@ github_username:  Captain-Barbosa
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: agency-jekyll-theme
