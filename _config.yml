@@ -1,0 +1,10 @@
+# basic options
+title: GB Robotics
+author: Gabriel Barbosa
+email: gbarbosa@ucsc.edu
+description: My portfolio
+github_username:  Captain-Barbosa
+
+# Build settings
+markdown: kramdown
+theme: agency
